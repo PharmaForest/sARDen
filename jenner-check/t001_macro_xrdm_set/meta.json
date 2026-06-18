@@ -1,0 +1,8 @@
+{
+  "bundle": "t001_macro_xrdm_set",
+  "source_file": "sARDen/06_macro/xrdm_set.sas",
+  "source_blob_sha": "fb762d8d481457c88a295a87fa6e914484a9cce7",
+  "source_commit": "f2c63b07a67323ba9a39d5c30f767f3a4aaf3ffe",
+  "tier": "macro_caller",
+  "notes": "Caller for the sARDen %xrdm_set macro. Inline 4-row ARD table (sARDen long format) substitutes for the sas_faker test data; macro attaches ARDM metadata to the ARD and runs PROC CONTENTS. Runs end-to-end on Jenner (status ok, exit 0)."
+}

@@ -1,0 +1,24 @@
+
+PROC CONTENTS
+-------------------------------------------------------------------------------
+
+Data Set Name: WORK.ard_tab_14_2_1
+Observations:  4
+Variables:     9
+
+Variables (in alphabetical order):
+
+  #  Variable        Type    Len  Format  Label
+---  --------------  ----  -----  ------  -----
+  1  context         Char    200          
+  2  fmt_fun         Char    200          
+  3  group1          Char    200          
+  4  group1_level    Char    200          
+  5  stat             Num      8          
+  6  stat_label      Char    200          
+  7  stat_name       Char    200          
+  8  variable        Char    200          
+  9  variable_level  Char    200          
+
+-------------------------------------------------------------------------------
+

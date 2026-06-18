@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-06-18T16:56:12Z",
+  "_captured_run_id": "r_019edbab25437462b601989691f4ca8b",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Read 4 rows from DATALINES.",
+    "NOTE: Wrote ard_tab_14_2_1 (4 rows, 9 columns).",
+    "NOTE: PROC CONTENTS completed: 4 observations, 9 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}
